@@ -1,4 +1,5 @@
-# Cards* Update my company sales / turnover figures 
+# Cards
+* Update my company sales / turnover figures 
 * Update my company information 
 * View my company details 
 * View my SE contacts 

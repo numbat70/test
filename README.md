@@ -13,7 +13,7 @@ We are trying to find out what a good account area should feel like for customer
 Can you pretend that you have applied for a R&D grant from Scottish Enterprise. 
 They have set up an online account area for you to administer your application.
 And you are called Siobhan…
-Which one works best ? 
+Which one works best ?  
 
 # Card Sorting
 ## Script

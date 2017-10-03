@@ -4,9 +4,9 @@
 ## Wireframes
 
 [MVS](http://19zz2a.axshare.com/my_account.html)
-1. BLUE   (http://ja2j4n.axshare.com/v1_-_my_account.html)         zoom out to 90% and refresh the page.
-2. RAINBOW   (http://ja2j4n.axshare.com/v2_-_my_account.html)
-3. MIX   (http://ja2j4n.axshare.com/v3_-_my_account.html)
+1. [BLUE](http://ja2j4n.axshare.com/v1_-_my_account.html)         zoom out to 90% and refresh the page.
+2. [RAINBOW](http://ja2j4n.axshare.com/v2_-_my_account.html)
+3. [MIX](http://ja2j4n.axshare.com/v3_-_my_account.html)
 
 ### To the Customer:  
 We are trying to find out what a good account area should feel like for customers.

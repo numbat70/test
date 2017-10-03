@@ -35,5 +35,5 @@ Which one works best?
 [List of cards](CARDS.md)
 
 SE internal links!!!
-[Document Templates](\\csnsrvbl0007\margrps\SESDI Marcomms\Digital First\User Research Central_2016\Templates)
-[My Account Research Folder](\\csnsrvbl0007\margrps\NEW Teams\Service Design & Support\Customer Research & Analytics\User Research\My Account)
+* [Document Templates](\\csnsrvbl0007\margrps\SESDI Marcomms\Digital First\User Research Central_2016\Templates)
+* [My Account Research Folder](\\csnsrvbl0007\margrps\NEW Teams\Service Design & Support\Customer Research & Analytics\User Research\My Account)

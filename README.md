@@ -32,3 +32,4 @@ Which one works best ?
 * Areas where a card would be in multiple groups
 * Missing cards
 
+[List of cards](CARDS.md)

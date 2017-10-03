@@ -54,7 +54,7 @@ Which one works best ?
 * View future assistance relevant to my company
 * Start my claim process
 * Manage all of my enquiries
-* Delete my accoun
-* tIdentify potential overseas markets
+* Delete my account
+* Identify potential overseas markets
 * Learn new business skills
 * Sell into the European Union

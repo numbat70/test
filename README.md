@@ -7,7 +7,7 @@
 3. [MIX link](http://ja2j4n.axshare.com/v3_-_my_account.html)
 
 
-'''For Info: [MVS http://19zz2a.axshare.com/my_account.html](http://19zz2a.axshare.com/my_account.html)
+> For Info: [MVS http://19zz2a.axshare.com/my_account.html](http://19zz2a.axshare.com/my_account.html)
 
 ### To the Customer:  
 We are trying to find out what a good account area should feel like for customers.

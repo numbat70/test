@@ -8,7 +8,7 @@ MVS   http://19zz2a.axshare.com/my_account.html
 2. RAINBOW   (http://ja2j4n.axshare.com/v2_-_my_account.html)
 3. MIX   (http://ja2j4n.axshare.com/v3_-_my_account.html)
 
-### To the Customer: 
+### To the Customer:  
 We are trying to find out what a good account area should feel like for customers.
 Can you pretend that you have applied for a R&D grant from Scottish Enterprise. 
 They have set up an online account area for you to administer your application.
